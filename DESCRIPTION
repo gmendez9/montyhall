@@ -1,0 +1,14 @@
+Package: montyhall
+Title: The Montyhall Package
+Version: 0.0.0.9000
+Authors@R: 
+    person("Gerardo", "Mendez", , "gmendez099@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The purpose of this package Is to store all the functions we have created to run a simulation of the montyhall game.
+Depends: 
+   dplyr
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
